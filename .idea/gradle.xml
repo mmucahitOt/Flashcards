@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Flashcards/task" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Swap elements" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data class/copy() usage" />
+            <option value="$PROJECT_DIR$/Topics/Data class/equals() check" />
+            <option value="$PROJECT_DIR$/Topics/Data class/toString() modification" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Cart" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/House inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Barista problem" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Fabric manufacture" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Frozen desserts" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Change program arguments" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Printing arguments" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Using arguments" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
